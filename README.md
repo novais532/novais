@@ -1,1 +1,2 @@
-# novais
+thiago novais
+aluno do alura
